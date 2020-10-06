@@ -5,7 +5,7 @@ A slider pane will open on the page where you can use the **Export database** ac
 <br/>
 <img src="../database/media/Export_Menu.png" width="400px" alt="Export database menu"/>
 
-The environment will be unavailable for other servicing operations, such as Sandbox refresh or package deployment during this time. The source environment will be usable from a Dynamics user perspective.  
+The environment will be unavailable for other servicing operations, such as Sandbox refresh or package deployment during this time. The source environment will make the environment temporarily unavailable from a Dynamics user perspective.  
 
 After the export operation completes successfully, sign off on the servicing operation on your **Environment details** page. You can then see the asset in your **Asset Library** in the **Database backups** section.
 <img src="../database/media/AssetLibrary_Backups.png" width="800px" alt="Asset library backup files"/>
